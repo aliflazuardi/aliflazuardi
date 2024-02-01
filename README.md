@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliflazuardi
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning how to be a better Backend Engineer
+- 🌱 I’m currently learning how to be a better Fulstack Web
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me khalifahlf@gmail.com
 
