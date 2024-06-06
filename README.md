@@ -1,4 +1,5 @@
-Currently focusing on becoming better at cloud services and a better VIM motion user.
+I love to learn how things work.
+I am currently focusing on improving my knowledge of cloud services and becoming a better VIM motion user.
  
 Reach me at khalifahlf@gmail.com
 
