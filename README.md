@@ -1,6 +1,10 @@
-I love to learn how things work.
-I am currently focusing on improving my knowledge of cloud services and becoming a better VIM motion user.
+Currently in Valley of Impostor Syndrome!
+
+Software Engineer based in Indonesia.
+Trying to code everyday turning my github profile green.
+Vim motion enjoyer.
  
+Open for business or project opportunities!
 Reach me at khalifahlf@gmail.com
 
 <!---
